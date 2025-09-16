@@ -2,7 +2,7 @@
 
 A real-time age and gender prediction system using deep learning with PyTorch. The system can process live camera feeds and video files to detect faces and predict age and gender with confidence scores.
 
-![Demo](video_preview/video.mp4)
+![Age Gender Detection Demo](https://github.com/user-attachments/assets/dc1ae013-801b-400f-ae36-49ec017d799b)
 
 ## Features
 
